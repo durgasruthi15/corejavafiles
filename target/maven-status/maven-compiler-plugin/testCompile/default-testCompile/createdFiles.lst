@@ -1,0 +1,5 @@
+org\example\AppTest.class
+strings\StringRotationTest.class
+strings\VowelsTest.class
+strings\ReverseWordTest.class
+strings\AnagramTest.class
