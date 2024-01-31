@@ -1,6 +1,7 @@
-package additional;
+package functionalinterface;
 
-public class CharacterRepeater {
+public class Character {
+
 
     public static void identifyAndPrintRepeated(String input) {
         if (input == null) {
