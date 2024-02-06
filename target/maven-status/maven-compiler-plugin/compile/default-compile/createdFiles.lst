@@ -12,6 +12,7 @@ list\RemoveStudent.class
 ThreeAssignment\CodeOnStatic.class
 ThreeAssignment\FinalClass.class
 compare\Person.class
+hashset\RemoveDuplicates.class
 Student.class
 Arrays\smallestLargest.class
 Arrays\binarySearch.class
@@ -22,6 +23,7 @@ ConditionsAndLoops\FizzBuzz.class
 strings\Vowels.class
 Arrays\reverseArray.class
 compare\MovieByYearReleasedAndRating.class
+hashset\HashSetExample.class
 compare\Movie.class
 org\example\App.class
 ConditionsAndLoops\Reverse.class
